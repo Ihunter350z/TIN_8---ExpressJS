@@ -1,0 +1,24 @@
+{
+    "accounts": [{
+            "Name": "Alex",
+            "Password": "Adm1n",
+            "Age": 31
+        },
+        {
+            "Name": "Steve",
+            "Surname": "Stevie",
+            "Age": 10
+        },
+        {
+            "Name": "Maria",
+            "Surname": "Carrot95",
+            "Age": 23
+        },
+        {
+            "Name": "Nick",
+            "Surname": "SuperSecure",
+            "Age": 21
+        }
+    ]
+
+}
